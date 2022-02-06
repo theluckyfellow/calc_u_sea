@@ -1,6 +1,8 @@
 # Calc_U_Sea
 A calculator for learning and playing with numbers
 
+![image](/image.png?raw=true "image")
+
 # Technology
 This is a Javascript project and uses the p5.js library. It works for different browsers and screen sizes. The code is not very well documented at the moment, but that should change as it develops.
 
